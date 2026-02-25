@@ -9,6 +9,16 @@ A small Vue 3 single-page demo modeled after an e‑commerce login and browsing 
 - **Extras:** canvas-confetti (demo success effect)
 ## 📸 Screenshot
 ![m1image](src/assets/m1.png)
+![m2image](src/assets/m2.png)
+![m3image](src/assets/m3.png)
+![m4image](src/assets/m4.png)
+![m5image](src/assets/m5.png)
+![m6image](src/assets/m6.png)
+![m7image](src/assets/m7.png)
+![m8image](src/assets/m8.png)
+![m9image](src/assets/m9.png)
+
+
 ## Quick start
 
 1. Install dependencies:
