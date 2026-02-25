@@ -1,7 +1,11 @@
 # MYNTRA — Vue 3 Vite Demo
 
 A small Vue 3 single-page demo modeled after an e‑commerce login and browsing UI. Built with Vite and Vue Router. Includes a phone-based login flow (demo OTP) and several example pages (mens, womens, beauty, bag, wishlist).
-
+## View live
+Open this link to view project
+```
+https://gabhishek-clone-myntr-app.netlify.app/
+```
 **Tech Stack:**
 - **Framework:** Vue 3
 - **Bundler / Dev Server:** Vite
