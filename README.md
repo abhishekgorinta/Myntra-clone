@@ -8,7 +8,7 @@ A small Vue 3 single-page demo modeled after an e‑commerce login and browsing 
 - **Routing:** vue-router
 - **Extras:** canvas-confetti (demo success effect)
 ## 📸 Screenshot
-![m1image](m1.png)
+![m1image](../assets/m1.png)
 ## Quick start
 
 1. Install dependencies:
